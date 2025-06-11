@@ -1,20 +1,9 @@
-#include <iostream>
-using namespace std;
-
- int main(){
-   int arr[] = {3,5,4,1,9};
-   int n = sizeof(arr)/sizeof(int);
-   int max = arr[0];
-   int min = arr[0];
-   for ( int i=0; i<n; i++){
-      if (arr[i] > max){
-      max = arr[i];
-      }
-         if (arr[i]<min){
-            arr[i] = min;
-         }
-   }
-   cout << max << "\n";
-    cout << min << "\n";
-    return 0;
-   }
+👋 Hi, I’m Raghu M (@raghumbanasihalli)
+👀 Passionate about Machine Learning, Artificial Intelligence, Deep Learning, Web Development, and Data Structures & Algorithms
+🌱 Currently exploring MLOps to streamline model deployment and scalability
+💼 Experienced in solving real-world problems in Agriculture and Finance domains
+🚀 Founder of AHM Techspire Innovation – building innovative tech solutions in healthcare and sustainability
+🤝 Open to collaborating on impactful projects in AI, ML, or full-stack development
+📫 Reach me at: raghumbanasihalli@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I believe tech isn't just for big cities — I’m on a mission to bring smart solutions to rural challenges!
